@@ -295,6 +295,9 @@ Robbins Roger
 Wilks Michael
 J. Young
 
+   Technical Committee of Academia Bizantina:
+Lucian Popescu
+Daniel Airinei
 
 purpose: 1.1
 scope: 1.2
