@@ -821,9 +821,8 @@ The following terms are used in this document:
 
  * Undefined behavior --- behavior, upon use of a nonportable or
    erroneous program construct, of erroneous data, or of
-   indeterminately-valued objects, for which the Standard imposes no
-   requirements.  Permissible undefined behavior ranges from ignoring the
-   situation completely with unpredictable results, to behaving during
+   indeterminately-valued objects, for which the Standard imposes
+   requirements.  Permissible undefined behavior ranges from behaving during
    translation or program execution in a documented manner characteristic
    of the environment (with or without the issuance of a diagnostic
    message), to terminating a translation or execution (with the issuance
